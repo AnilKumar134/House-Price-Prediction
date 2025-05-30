@@ -46,3 +46,9 @@ Find server.py in server folder
 # 📦 Output Files
 model.pkl – Trained machine learning model  
 columns.json – Stores column info for deployment  
+
+## 📬 Contact
+
+**Anil Kumar**  
+Aspiring Data Analyst | • Python • SQL • Power BI • Excel • Machine Learning
+[LinkedIn](https://www.linkedin.com/in/anil-kumar-554561225/)
