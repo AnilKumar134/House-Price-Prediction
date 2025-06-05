@@ -50,5 +50,6 @@ columns.json – Stores column info for deployment
 ## 📬 Contact
 
 **Anil Kumar**  
-Aspiring Data Analyst | • Python • SQL • Power BI • Excel • Machine Learning
+MIS Executive | Aspiring Data Analyst | • Python • SQL • Power BI • Excel • Machine Learning  
+📧 [ak26458624@gmail.com](mailto:ak26458624@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/anil-kumar-554561225/)
